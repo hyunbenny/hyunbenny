@@ -1,4 +1,4 @@
-<!--[TIL - NOTION]()-->
+[블로그](https://hyunbenny.tistory.com/)
 
 <!--
 **bluesky3268/bluesky3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
