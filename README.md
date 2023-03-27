@@ -1,4 +1,4 @@
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://hyunbenny.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://hyunbenny.tistory.com")
 
 <!--
 **bluesky3268/bluesky3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
