@@ -1,41 +1,39 @@
+# Hyunbenny's Github
 <!-- https://hits.seeyoufarm.com/ -->
-<p align="center">
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbenny&count_bg=%231443EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[![Hyunbenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbenny&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbenny&layout=compact)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbenny&count_bg=%231D40E1&title_bg=%23353535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 <br/>
+안녕하세요 2년차 개발자 조현빈입니다. <br/>
+현재 업무에서는 Java, Spring Framework, Oracle, Mybatis를 주로 사용하고 있고 <br/>
+퇴근 후 OS, 네트워크부터 JPA, Redis등 부족한 부분을 채우기 위해 공부하고 있습니다. <br/>
+<br/>
+
+![Hyunbenny's GitHub stats](https://github-readme-stats.vercel.app/api/?username=hyunbenny&show_icons=true&theme=merko)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunbenny)](https://solved.ac/hyunbenny)
 
 <!-- https://simpleicons.org/ -->
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
 <!-- badge/`텍스트`-`색상코드`?style=flat-square&logo=`뱃지아이콘`&logoColor=`아이콘색상` -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-<!--
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
--->
-<br>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp 
-</p>
+# 👨‍💻 Tech Stacks 👨‍💻
+### Language
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
+### Framework
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+
+### TemplateEngine
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
+
+### Tool
+![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDE-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDE&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
+
+# ☎️ Contacts ☎️
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/hyunbenny/study)](https://github.com/hyunbenny/study)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bluesky3268@naver.com)](mailto:bluesky3268@naver.com)
