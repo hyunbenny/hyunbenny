@@ -4,7 +4,7 @@
 <br/>
 안녕하세요 2년차 개발자 조현빈입니다. <br/>
 현재 업무에서는 Java, Spring Framework, Oracle, Mybatis를 주로 사용하고 있고 <br/>
-퇴근 후 OS, 네트워크부터 JPA, Redis등 부족한 부분을 채우기 위해 공부하고 있습니다. <br/>
+OS, 네트워크부터 JPA, Redis등 부족한 부분을 채우기 위해 공부하고 있습니다. <br/>
 <br/>
 
 ![Hyunbenny's GitHub stats](https://github-readme-stats.vercel.app/api/?username=hyunbenny&show_icons=true&theme=merko)
