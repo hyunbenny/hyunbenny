@@ -3,7 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbenny&count_bg=%231D40E1&title_bg=%23353535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 <br/>
 안녕하세요 2년차 개발자 조현빈입니다. <br/>
-현재 업무에서는 Java, Spring Framework, Oracle, Mybatis를 주로 사용하고 있고 <br/>
+현재 업무에서는 Java, Spring Framework, Oracle, Mybatis를 주로 사용하고 있습니다. <br/>
+요즘 많이 사용하는 기술 스택들과 개발 문화에 관심이 많고,
 OS, 네트워크부터 JPA, Redis등 부족한 부분을 채우기 위해 공부하고 있습니다. <br/>
 <br/>
 
