@@ -1,6 +1,8 @@
 # Hyunbenny's Github
 <!-- https://hits.seeyoufarm.com/ -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbenny&count_bg=%231D40E1&title_bg=%23353535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbenny&count_bg=%231D40E1&title_bg=%23353535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/hyunbenny/study)](https://github.com/hyunbenny/study)
+
 <br/>
 안녕하세요 2년차 개발자 조현빈입니다. <br/>
 현재 업무에서는 Java, Spring Framework, Oracle, Mybatis를 주로 사용하고 있습니다. <br/>
@@ -36,5 +38,4 @@ OS, 네트워크부터 JPA, Redis등 부족한 부분을 채우기 위해 공부
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 # ☎️ Contacts ☎️
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/hyunbenny/study)](https://github.com/hyunbenny/study)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bluesky3268@naver.com)](mailto:bluesky3268@naver.com)
